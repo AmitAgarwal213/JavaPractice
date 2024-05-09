@@ -1,0 +1,14 @@
+package TestCasess;
+
+public class TestNGProgram1 
+{
+
+	
+	@Test
+	public void launch()
+	{
+		
+	}
+	
+	
+}

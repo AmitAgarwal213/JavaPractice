@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-01T19:10:24 IST" name="Default suite" finished-at="2024-05-01T19:10:25 IST" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2024-05-01T19:10:24 IST" name="Default test" finished-at="2024-05-01T19:10:25 IST" duration-ms="62">
+      <class name="testng.practice.AppTestTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testng.practice.AppTestTest@18df8434]" started-at="2024-05-01T19:10:24 IST" name="beforeTest" finished-at="2024-05-01T19:10:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testng.practice.AppTestTest@18df8434]" started-at="2024-05-01T19:10:25 IST" name="beforeClass" finished-at="2024-05-01T19:10:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="AppTestTest()[pri:1, instance:testng.practice.AppTestTest@18df8434]" started-at="2024-05-01T19:10:25 IST" name="AppTestTest" finished-at="2024-05-01T19:10:25 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppTestTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testng.practice.AppTestTest@18df8434]" started-at="2024-05-01T19:10:25 IST" name="beforeMethod" finished-at="2024-05-01T19:10:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng.practice.AppTestTest@18df8434]" started-at="2024-05-01T19:10:25 IST" name="afterMethod" finished-at="2024-05-01T19:10:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testng.practice.AppTestTest@18df8434]" started-at="2024-05-01T19:10:25 IST" name="afterClass" finished-at="2024-05-01T19:10:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testng.practice.AppTestTest@18df8434]" started-at="2024-05-01T19:10:25 IST" name="afterTest" finished-at="2024-05-01T19:10:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testng.practice.AppTestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

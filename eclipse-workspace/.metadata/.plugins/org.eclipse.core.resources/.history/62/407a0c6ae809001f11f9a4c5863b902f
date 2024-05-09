@@ -1,0 +1,12 @@
+package MavenProjects.MavenProject;
+
+import org.testng.annotations.Test;
+
+public class Case1_Annotation {
+
+	@Test
+	public void login() {
+		
+	}
+
+}

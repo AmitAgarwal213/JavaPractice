@@ -1,0 +1,34 @@
+package inheritance;
+interface addbbition{
+	void add();
+	int a= 20;
+	int b = 30;
+	void sub();
+}
+
+
+public class Multiplelevel_inheritace implements addbbition{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Multiplelevel_inheritace M1= new Multiplelevel_inheritace();
+		M1.add();
+		M1.sub();
+		
+
+	}
+
+	@Override
+	public void add() {
+		
+		System.out.println("the addtion of two number is "+ a+b);
+	}
+
+	@Override
+	public void sub() {
+		// TODO Auto-generated method stub
+		System.out.println("jello");
+	}
+
+}

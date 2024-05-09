@@ -1,0 +1,8 @@
+package SeleniumBasics;
+
+import org.testng.IRetryAnalyzer;
+
+public class IRAProgramm implements IRetryAnalyzer{
+	
+
+}

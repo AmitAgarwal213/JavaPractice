@@ -1,0 +1,16 @@
+package TestCasess;
+
+import org.testng.annotations.Test;
+
+public class TestNGProgram1 
+{
+
+	
+	@Test
+	public void launch()
+	{
+		
+	}
+	
+	
+}

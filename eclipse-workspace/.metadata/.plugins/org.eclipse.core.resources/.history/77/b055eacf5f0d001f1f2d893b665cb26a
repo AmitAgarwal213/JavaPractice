@@ -1,0 +1,19 @@
+package AllAssignment;
+
+public class Assignment35 {
+
+	Assignment35(){
+	}
+
+Assignment35(int b){
+	System.out.println(b);
+}
+
+
+			 
+			public static void main(String[]args) {
+				Assignment35 a= new Assignment35();
+				Assignment35 a1= new Assignment35();
+	}
+	
+}

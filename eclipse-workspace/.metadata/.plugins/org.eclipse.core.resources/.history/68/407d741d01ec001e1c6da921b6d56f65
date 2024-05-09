@@ -1,0 +1,22 @@
+package Array;
+
+public class CheckArrayisEqualornot {
+
+	public static void main(String[] args) {
+		int roll_no[]= new int[5];
+		int num[]= new int[6];
+		for(int i=0;i<roll_no.length;i++) {
+		if (num[i]== roll_no[i]) {
+			boolean number = num.equals(roll_no[i]);
+		}
+			System.out.println("number is equal" + num);
+			
+		}
+//		else {
+//			System.err.println("OOPS number is not queal");
+//		}
+		
+		
+	}
+
+}

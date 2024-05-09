@@ -1,0 +1,29 @@
+package MavenProjects.MavenProject;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
+
+public class DataProviderExmaple {
+@DataProvider(name="search_Result")
+public Object method1() {
+	
+	return new Object[][] {{"india"},{"School"},{"Pencil"}};
+}
+@Test
+public void method2(String input) { 
+	
+ChromeDriver driver = new ChromeDriver ();
+
+driver.get("https://www.google.com/");
+WebElement search =driver.findElement(By.name("manish"));
+search.sendKeys(input);
+search.sendKeys(Keys.ENTER);
+	
+}
+
+
+}

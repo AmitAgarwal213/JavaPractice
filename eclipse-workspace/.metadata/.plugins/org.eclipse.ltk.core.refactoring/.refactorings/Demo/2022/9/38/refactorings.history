@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename module &apos;Demo&apos; in &apos;Demo&apos; to &apos;java.demo&apos;&#x0D;&#x0A;- Original project: &apos;Demo&apos;&#x0D;&#x0A;- Original element: &apos;Demo&apos;&#x0D;&#x0A;- Renamed element: &apos;&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename module &apos;Demo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.module" input="/src&lt;{module-info.java`Demo" name="java.demo" references="true" stamp="1663170860144" version="1.0"/>
+</session>
